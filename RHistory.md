@@ -6,6 +6,7 @@ similar to unix history command, you can see previously entered commands using f
 	history() 
 
 History panel in RStudio shows same information.
+
 ![RStudio History Panel](images/RStudio-history-panel.png)
 
 You can save your history
