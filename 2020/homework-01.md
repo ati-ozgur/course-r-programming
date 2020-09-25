@@ -10,7 +10,8 @@
 
 5. write a R code that read csv file data/grades.csv (note that reading csv and excel is different in R)
 
-6. Write a letter grade code to [this link](https://en.wikipedia.org/wiki/Academic_grading_in_the_United_States)
+6. Write a R script which changes numeric (1-100) grades to USA letter grade using [following link](https://en.wikipedia.org/wiki/Academic_grading_in_the_United_States)
 
-This code should be broadcasting code. You can look at the example three_five_fifteen_broadcasting.R code in the  [7zip file](source-files-2020/r-course-jacobs-2020-09-23.7z) file.
+This code should use broadcasting concept of R. 
+You can look at the example three_five_fifteen_broadcasting.R code in the  [7zip file](source-files-2020/r-course-jacobs-2020-09-23.7z) file.
 
