@@ -1,0 +1,64 @@
+---
+title: "Grade Report of the Random Students in 2020 Semestre"
+author: "Atilla Özgür"
+date: "10/7/2020"
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Grades Summary
+
+```{r read_grades, message = FALSE, echo=FALSE}
+library(readr)
+df_grades <- read_csv("../data/grades.csv", locale = locale(encoding = "ISO-8859-1"))
+
+```
+Note that `message=False` parameter used to suppress warnings from read_csv about column specification
+
+
+```{r grades}
+summary(df_grades)
+```
+
+## Grades Histogram
+
+You can also embed plots, for example:
+
+```{r pressure,warning=FALSE, echo=FALSE}
+library(ggplot2)
+# Basic histogram
+p = ggplot(df_grades, aes(x=grades))  + 
+        geom_histogram(binwidth=5)
+print(p)
+```
+
+
+Note that `warning=False` parameter used to suppress warnings from ggplot
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+## Lab TODO
+
+1. if cut off for failing is 60, show how many students are failing.
+
+```{r failing_student_count,warning=FALSE, echo=FALSE}
+failing_student_count = sum(df_grades$grades < 60)
+
+```
+we have total of `r failing_student_count` students failing the class with a grade of lower than 60.
+
+2. if A+ grades is given to 97 or higher, show how many students got this grade.
+
+```{r Aplus_student_count,warning=FALSE, echo=FALSE}
+Aplus_student_count = sum(df_grades$grades >= 97)
+
+```
+we have total of `r Aplus_student_count` students with A+ grade with a numerical grade of 97 or higher.
+
+
