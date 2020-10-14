@@ -47,6 +47,8 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 1. if cut off for failing is 60, show how many students are failing.
 
+### Solution
+
 ```{r failing_student_count,warning=FALSE, echo=FALSE}
 failing_student_count = sum(df_grades$grades < 60)
 
@@ -54,6 +56,8 @@ failing_student_count = sum(df_grades$grades < 60)
 we have total of `r failing_student_count` students failing the class with a grade of lower than 60.
 
 2. if A+ grades is given to 97 or higher, show how many students got this grade.
+
+### Solution
 
 ```{r Aplus_student_count,warning=FALSE, echo=FALSE}
 Aplus_student_count = sum(df_grades$grades >= 97)
