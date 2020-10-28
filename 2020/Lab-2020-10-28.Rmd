@@ -1,0 +1,71 @@
+---
+title: "Lab 2020-10-28"
+author: "Write Your Name Here:"
+date: "March 12, 2019"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+You are writing a function for medical tests.
+In your graphical user interface, you would like to show results of these tests with different colors.
+If the test result is less than min or higher than max, your function will return "red".
+If the test result is between min and max, then your function will return "green"
+
+for example
+
+| Test Name       | min test value | max test value | current test value | color |
+|-----------------|----------------|----------------|--------------------|-------|
+| Medical Test 1  | 10             | 50             | 30                 | green |
+|  Medical Test 1 | 10             | 50             | 52                 | red   |
+| Medical Test 2  | 20             | 200            | 30                 | green |
+|  Medical Test 2 | 20             | 200            | 220                 | red   |
+
+## Question 01
+
+Write a suitable function name for finding color of this medical test.
+Write this function code and test with values given above.
+
+
+## Question 02
+
+Write a script to generate this data frame.
+There will be 8 different medical tests.
+Min test value will be always test number * 10, while max test value will be square of test number * 50.
+Current test value should be uniform random number with the limits -10 of min test value and +10 of max test value.
+Your script should use Question 01 function to create colors.
+Your script also save contents of the data frame as csv file.
+
+
+
+## Question 03
+Your requirements are changed.
+Customer right now want that
+If the test result is less than or equal to min "yellow"
+If the test result is higher than  or equal to max "yellow"
+otherwise, your function will return "green"
+
+Name this new function according to question 01 name + ".new"
+Write this new function code.
+Use this function to create new data frame and color2 column.
+Your script also save contents of the data frame as csv file.
+
+
+
+## Question 04
+
+Use R plotting facilities to create 2 plots of your medical tests.
+While plotting colors, you should use color and color2 coloumns in 2 plots.
+Save your plot as png file.
+
+
+
+
