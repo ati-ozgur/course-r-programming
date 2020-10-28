@@ -50,14 +50,14 @@ Your script also save contents of the data frame as csv file.
 ## Question 03
 Your requirements are changed.
 Customer right now want that
-If the test result is less than or equal to min "yellow"
-If the test result is higher than  or equal to max "yellow"
-otherwise, your function will return "green"
+If the test result is less than or equal to min, it will return  "yellow" color.
+If the test result is higher than  or equal to max, it will return "red" color.
+otherwise, your function will return "green" color.
 
 Name this new function according to question 01 name + ".new"
 Write this new function code.
 Use this function to create new data frame and color2 column.
-Your script also save contents of the data frame as csv file.
+Your script should also save contents of the data frame as csv file.
 
 
 
