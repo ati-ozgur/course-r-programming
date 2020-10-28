@@ -1,11 +1,11 @@
 ---
 title: "Lab 2020-10-28"
 author: "Write Your Name Here:"
-date: "March 12, 2019"
+date: "2020-10-28"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -38,7 +38,8 @@ Write this function code and test with values given above.
 ## Question 02
 
 Write a script to generate this data frame.
-There will be 8 different medical tests.
+There will be 8 different medical tests and each test will have 100 results.
+That is data frame should have 800 rows.
 Min test value will be always test number * 10, while max test value will be square of test number * 50.
 Current test value should be uniform random number with the limits -10 of min test value and +10 of max test value.
 Your script should use Question 01 function to create colors.
