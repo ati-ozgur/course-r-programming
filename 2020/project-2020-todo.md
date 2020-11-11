@@ -1,4 +1,10 @@
-project-2020-todo.md
+# project-2020-todo
+
+This is right now draft.
+When it is finished, I will send you email using CampusNet.
+But, your project will consists of similar tasks like below.
+
+
 
 1. Create a RStudio Project named course-r-programming-project-surname1-surname2
 For example student names are below
