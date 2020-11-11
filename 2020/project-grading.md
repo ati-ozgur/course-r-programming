@@ -1,6 +1,6 @@
-project-grading.md
+# project grading
 
-3 Parts
+You will be graded from 3 Parts
 
 1. Source code and R Markdown Report
 I do not want a power point presentation.
