@@ -19,6 +19,11 @@ Project name should be course-r-programming-project-oezguer-uygun
 	- data
 	- reports
 
-2. Download following files using an r script. Your script name should be download_project_files.R
+3. Download following files using an R script. 
+Your script name should be download_data_files.R
+
+	https://data.mendeley.com/datasets/8gx2fvg2k6/5
+
+4. [extract zip](https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/unzip) files to data directory
 
 
