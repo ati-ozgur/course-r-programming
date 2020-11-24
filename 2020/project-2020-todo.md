@@ -26,4 +26,12 @@ Your script name should be download_data_files.R
 
 4. [extract zip](https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/unzip) files to data directory
 
+5. import DataCoSupplyChainDataset.csv files using readr to a tibble data frame.
+
+6.
+
+
+
+
+
 
