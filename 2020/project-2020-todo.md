@@ -27,16 +27,19 @@ Your script name should be download_data_files.R
 04. [extract zip](https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/unzip) files to data directory
 
 05. import DataCoSupplyChainDataset.csv files using readr to a tibble data frame.
+Please consider data types.
+
+05. Write 1-2 paragraph description of the data.
 
 06. Find best 10 customers by sales and by profit
 
 07. Find best 10 product according to sales and profit
 
-08. Create a histogram Market vs order count
+08. Create a figure Market vs order count
 
-09. create a histogram of sales vs type (Debit,...)
+09. create a figure of sales vs type (Debit,...)
 
-10. Create a profit vs market scatter plot.
+10. Create a figure of profit vs market.
 
 11. Find mean profit for orders whose Delivery Status is not late. 
 
@@ -44,7 +47,7 @@ Your script name should be download_data_files.R
 
 13. Find top 10 in-time products (delivery status is not late)
 
-14. Create histogram of delivery status vs mean of Order Item Total
+14. Create figure of delivery status vs mean of Order Item Total
 
 15. Find which 10 countries are most profitable
 
@@ -54,12 +57,12 @@ Your script name should be download_data_files.R
 
 18. which department is most profitable
 
-19. create a histogram of order counts vs type (Debit,...)
+19. create a figure of order counts vs type (Debit,...)
 
 
 20. Which country is most problematic for Days for shipping (real) in mean time
 
-21. Create heatmap of mean of days for shipping by country.
+21. Create heatmap figure of mean of days for shipping by country.
 In the rows, there should be country names.
 In the column, late orders (mean of country) should be red while on time orders should be green.
 
