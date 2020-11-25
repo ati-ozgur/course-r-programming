@@ -1,5 +1,9 @@
 # R course
 
+# Project
+
+- [Project todo list](2020/project-2020-todo.md)
+- [Project grading](2020/project-grading.md)
 
 # Our Previous Lessons
 
