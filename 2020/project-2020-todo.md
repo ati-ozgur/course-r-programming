@@ -43,7 +43,8 @@ Please consider data types.
 
 11. Find mean profit for orders whose Delivery Status is not late. 
 
-12. Find top 10 late products (delivery status is late)
+12. Find top 10 late products (delivery status is late).
+Which products this company consistently late delivering.
 
 13. Find top 10 in-time products (delivery status is not late)
 
@@ -53,7 +54,7 @@ Please consider data types.
 
 16. Find which 10 countries have most order count
 
-17. Compare delivery statuses vs order statuses in a scatter plot
+17. Compare delivery statuses vs order statuses in a figure
 
 18. which department is most profitable
 
