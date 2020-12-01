@@ -1,8 +1,6 @@
-# project-2020-todo
+# Project 2020 TODO
 
-This is right now draft.
-When it is finished, I will send you email using CampusNet.
-But, your project will consists of similar tasks like below.
+Your project will consists of similar tasks like below.
 
 
 
@@ -29,41 +27,46 @@ Your script name should be download_data_files.R
 05. import DataCoSupplyChainDataset.csv files using readr to a tibble data frame.
 Please consider data types.
 
-05. Write 1-2 paragraph description of the data.
+06. Write 1-2 paragraph description of the data.
 
-06. Find best 10 customers by sales and by profit
+07. Find best 10 customers by sales and by profit
 
-07. Find best 10 product according to sales and profit
+08. Find best 10 product according to sales and profit
 
-08. Create a figure Market vs order count
+09. Create a figure Market vs order count
 
-09. create a figure of sales vs type (Debit,...)
+10. create a figure of sales vs type (Debit,...)
 
-10. Create a figure of profit vs market.
+11. Create a figure of profit vs market.
 
-11. Find mean profit for orders whose Delivery Status is not late. 
+12. Find mean profit for orders whose Delivery Status is not late. 
 
-12. Find top 10 late products (delivery status is late).
+13. Find top 10 late products (delivery status is late).
 Which products this company consistently late delivering.
 
-13. Find top 10 in-time products (delivery status is not late)
+14. Find top 10 in-time products (delivery status is not late)
 
-14. Create figure of delivery status vs mean of Order Item Total
+15. Create figure of delivery status vs mean of Order Item Total
 
-15. Find which 10 countries are most profitable
+16. Find which 10 countries are most profitable
 
-16. Find which 10 countries have most order count
+17. Find which 10 countries have most order count
 
-17. Compare delivery statuses vs order statuses in a figure
+18. Compare delivery statuses vs order statuses in a figure
 
-18. which department is most profitable
+19. which department is most profitable
 
-19. create a figure of order counts vs type (Debit,...)
+20. create a figure of order counts vs type (Debit,...)
 
 
-20. Which country is most problematic for Days for shipping (real) in mean time
+21. Which country is most problematic for Days for shipping (real) in mean time
 
-21. Create heatmap figure of mean of days for shipping by country.
+22. Create heatmap figure of mean of days for shipping by country.
 In the rows, there should be country names.
 In the column, late orders (mean of country) should be red while on time orders should be green.
 
+23. Upload your project video presentation to youtube (optionally as hidden).
+
+24. embed your project video to your markdown document.
+
+25. Zip all of the project files as 7z and send it as an email to me.
