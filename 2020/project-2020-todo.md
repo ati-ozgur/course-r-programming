@@ -1,6 +1,6 @@
 # Project 2020 TODO
 
-Your project will consists of similar tasks like below.
+Your project consists of the tasks below.
 
 
 
