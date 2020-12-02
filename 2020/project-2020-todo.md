@@ -65,7 +65,7 @@ Which products this company consistently late delivering.
 In the rows, there should be country names.
 In the column, late orders (mean of country) should be red while on time orders should be green.
 
-23. Upload your project video presentation to youtube (optionally as hidden).
+23. Upload your project video presentation to youtube (public or optionally as [unlisted](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en)).
 
 24. embed your project video to your markdown document.
 
