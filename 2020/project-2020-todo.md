@@ -59,7 +59,15 @@ Which products this company consistently late delivering.
 20. create a figure of order counts vs type (Debit,...)
 
 
-21. Which country is most problematic for Days for shipping (real) in mean time
+21. Which countries is most problematic for Days for shipping (real) in mean time?
+Lets assume, mean shipping time is 30 days and standard deviation is 5 days.
+Then, any shipping that takes more than 40 days is problematic for this company.
+Show these countries in a table.
+
+
+
+
+
 
 22. Create heatmap figure of mean of days for shipping by country.
 In the rows, there should be country names.
