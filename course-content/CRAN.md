@@ -21,4 +21,4 @@ for example readxl package installed with following command.
 
 
 
-	- [See official page](https://cran.r-project.org)
+[See official page](https://cran.r-project.org)
