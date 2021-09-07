@@ -1,6 +1,6 @@
 # Installing R, RTools and RStudio
 
-- Installing R
+- [Installing R](https://cran.uni-muenster.de/)
 	
 
 - Installing RTools (Windows)
@@ -12,7 +12,8 @@
 	- See [official documentation](https://cran.r-project.org/bin/windows/Rtools/)
 	- 
 
-- RStudio
+- [RStudio](https://www.rstudio.com/products/rstudio/download/)
+
 	RStudio is the integrated development environment (IDE) for R. 
 	We will use it most of the time.
 
