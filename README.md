@@ -13,6 +13,7 @@ They are given so that you can read them for reference explanation in addition t
 
 - [R for Data Science](https://r4ds.had.co.nz)
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/basics.html)
+- [Introduction to Data Science](https://rafalab.github.io/dsbook/)
 - [R Programming](https://leanpub.com/rprogramming)
 
 
