@@ -4,6 +4,7 @@
 # Our Previous Lessons
 
 - [2021-09-07](2021/2021-09-07.md)
+- [2021-09-17](2021/2021-09-17.md)
 
 
 # Reference books
