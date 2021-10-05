@@ -1,6 +1,5 @@
-# visualization
+# Visualizations or Graph (figure) types
 
-## Graph (figure) types
 
 ###  line graph
 
