@@ -105,6 +105,10 @@ Most of the time, trends and relationships are given as visualizations and exact
 - https://nces.ed.gov/nceskids/help/user_guide/graph/whentouse.asp
 - https://www.tableau.com/learn/whitepapers/which-chart-or-graph-is-right-for-you
 
+### R Visualization
 
+- [ggplot main help](https://ggplot2.tidyverse.org/)
+- [ggplot2 cheatsheat](https://raw.githubusercontent.com/rstudio/cheatsheets/master/data-visualization.pdf)
+- [introverse help for ggplot2](https://spielmanlab.github.io/introverse/articles/introverse_online.html)
 
 
