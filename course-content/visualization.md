@@ -31,6 +31,16 @@ They are not suitable for a changes over a period of time.
 Similar to line graph, it is used to track changes of periods of time.
 But it is better when changes are larger and compared entities are less than three.
 Bar charts are useful for highlighting differences between categories.
+Bar charts could be vertical or horizontal.
+
+
+### Histograms
+
+Histograms are subset of bar graphs. They are very useful to visualize distributions.
+
+[!histogram example](../images/livinghistogram.jpg)
+
+
 
 
 #### Examples 
