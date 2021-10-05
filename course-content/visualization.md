@@ -1,7 +1,7 @@
 # Visualizations or Graph (figure) types
 
 
-###  line graph
+###  Line graph
 
 Use a line graph to track changes over periods of time.
 Bar graphs can also be used for same purpose but if variable number is higher than two, line graph is better.
@@ -14,7 +14,7 @@ In addition, since line graphs connects points, data perceived as continuous.
 - Monthly sales contributions of different departments in 2020.
 
 
-###  pie chart
+###  Pie chart
 
 Use it when trying to compare parts of whole thing. 
 Pie charts should be used for a data in a point of time.
@@ -27,6 +27,7 @@ They are not suitable for a changes over a period of time.
 
 
 ### Bar Graph
+
 Similar to line graph, it is used to track changes of periods of time.
 But it is better when changes are larger and compared entities are less than three.
 Bar charts are useful for highlighting differences between categories.
@@ -50,6 +51,7 @@ Histograms are subset of bar graphs. They are very useful to visualize distribut
 
 
 ### X-Y Plot 
+
 X-Y plot could be different plots like scatter and line plots.
 If data is continuous, line plots could be used, otherwise scatter plots should be used.
 Use it to determine relationships between X and Y.
@@ -63,6 +65,7 @@ Do they increase or decrease together.
 
 
 ### Area Graph
+
 Similar to line graphs, they are used to track changes over time.
 They could be a better choice when two parts of whole compared over time.
 
@@ -71,6 +74,7 @@ They could be a better choice when two parts of whole compared over time.
 - Monthly sales contributions of two departments in 2020.
 
 ### Maps
+
 Maps are choice of graph for location information.
 
 
