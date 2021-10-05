@@ -38,7 +38,7 @@ Bar charts could be vertical or horizontal.
 
 Histograms are subset of bar graphs. They are very useful to visualize distributions.
 
-[!histogram example](../images/livinghistogram.jpg)
+![histogram example](../images/livinghistogram.jpg)
 
 
 
