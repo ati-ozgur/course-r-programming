@@ -30,10 +30,14 @@ They are not suitable for a changes over a period of time.
 ### Bar Graph
 Similar to line graph, it is used to track changes of periods of time.
 But it is better when changes are larger and compared entities are less than three.
+Bar charts are useful for highlighting differences between categories.
+
 
 #### Examples 
 
 - Monthly sales contributions of different departments in 2020.
+- Employee counts of different departments 
+	- may be Sales department employee count vastly outnumbers R&D in this figure.
 
 
 ### X-Y Plot 
@@ -64,6 +68,14 @@ Maps are choice of graph for location information.
 #### Examples 
 
 - Sales contributions of locations.
+
+
+### Tables
+
+Tables are useful for showing exact data.
+Most of the time, trends and relationships are given as visualizations and exact data is given as a table.
+
+
 
 
 
