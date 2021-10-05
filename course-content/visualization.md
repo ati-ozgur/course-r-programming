@@ -99,6 +99,12 @@ Most of the time, trends and relationships are given as visualizations and exact
 - https://ctl.mit.edu/sites/ctl.mit.edu/files/2020-09/State_Supply_Chain_Sustainability_MIT_CTL_CSCMP_0.pdf
 
 
+### Examples figures in R
+
+- [Quickly Exploring Data in R Graphics Cookbook, 2nd edition](https://r-graphics.org/chapter-quick)
+
+
+
 
 ### links to read
 
@@ -106,6 +112,7 @@ Most of the time, trends and relationships are given as visualizations and exact
 - https://www.tableau.com/learn/whitepapers/which-chart-or-graph-is-right-for-you
 
 ### R Visualization
+
 
 - [ggplot main help](https://ggplot2.tidyverse.org/)
 - [ggplot2 cheatsheat](https://raw.githubusercontent.com/rstudio/cheatsheets/master/data-visualization.pdf)
