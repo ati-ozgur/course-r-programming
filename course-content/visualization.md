@@ -7,6 +7,8 @@
 Use a line graph to track changes over periods of time.
 Bar graphs can also be used for same purpose but if variable number is higher than two, line graph is better.
 Line graphs could be a better choice for data which has maximum and minimum points.
+In addition, since line graphs connects points, data perceived as continuous.
+
 
 #### Examples 
 
@@ -36,10 +38,16 @@ But it is better when changes are larger and compared entities are less than thr
 
 ### X-Y Plot 
 X-Y plot could be different plots like scatter and line plots.
+If data is continuous, line plots could be used, otherwise scatter plots should be used.
 Use it to determine relationships between X and Y.
 Do they increase or decrease together.
 
 #### Examples 
+
+- weight vs height of survey participants
+- salary vs age of participants
+
+
 
 ### Area Graph
 Similar to line graphs, they are used to track changes over time.
@@ -49,12 +57,29 @@ They could be a better choice when two parts of whole compared over time.
 
 - Monthly sales contributions of two departments in 2020.
 
+### Maps
+Maps are choice of graph for location information.
+
+
+#### Examples 
+
+- Sales contributions of locations.
+
+
+
+### Reports to look at
+
+- https://www.kaggle.com/kaggle-survey-2020
+- https://insights.stackoverflow.com/survey/2020
+- https://ctl.mit.edu/sites/ctl.mit.edu/files/2020-09/State_Supply_Chain_Sustainability_MIT_CTL_CSCMP_0.pdf
 
 
 
 ### links to read
 
 - https://nces.ed.gov/nceskids/help/user_guide/graph/whentouse.asp
+- https://www.tableau.com/learn/whitepapers/which-chart-or-graph-is-right-for-you
+
 
 
 
