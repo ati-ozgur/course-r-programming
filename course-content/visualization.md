@@ -111,6 +111,9 @@ Most of the time, trends and relationships are given as visualizations and exact
 
 - https://nces.ed.gov/nceskids/help/user_guide/graph/whentouse.asp
 - https://www.tableau.com/learn/whitepapers/which-chart-or-graph-is-right-for-you
+- https://www.intellspot.com/types-graphs-charts/
+- https://infogram.com/blog/do-you-know-when-to-use-tables-vs-charts/
+
 
 ### R Visualization
 
