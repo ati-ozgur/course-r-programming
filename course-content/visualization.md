@@ -34,6 +34,13 @@ Bar charts are useful for highlighting differences between categories.
 Bar charts could be vertical or horizontal.
 
 
+#### Examples 
+
+- Monthly sales contributions of different departments in 2020.
+- Employee counts of different departments 
+	- may be Sales department employee count vastly outnumbers R&D in this figure.
+
+
 ### Histograms
 
 Histograms are subset of bar graphs. They are very useful to visualize distributions.
@@ -42,12 +49,6 @@ Histograms are subset of bar graphs. They are very useful to visualize distribut
 
 
 
-
-#### Examples 
-
-- Monthly sales contributions of different departments in 2020.
-- Employee counts of different departments 
-	- may be Sales department employee count vastly outnumbers R&D in this figure.
 
 
 ### X-Y Plot 
