@@ -1,4 +1,4 @@
-Syllabus.md
+# Syllabus
 
 
 - Installation of R,RTools and RStudio
@@ -58,7 +58,16 @@ Syllabus.md
 -  Data processing and Aggregation with R
 	- base R
 	- dplyr (tidyverse)
+
+- dplyr part 1
+	- filter
+	- arrange
+	- select
+	- mutate
+	- summarise
+	- pipe operation
+
 - dplyr part 2
-	- joins
+	- joining two or more data frames
 
 
