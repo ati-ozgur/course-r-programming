@@ -1,8 +1,9 @@
-Data
-	- report
-	- figures
-	- tables
-	- information
+Exam objective is to get a dataset from external file. 
+And create a RMarkdown document which contains information, figures and tables extracted from dataset.
+This RMardown document will create a html report at the end.
+
+The example will be step by step instructions as following.
+Apart from question 1, which is necessary for almost all the other steps, other steps could be done independently.
 
 
 
