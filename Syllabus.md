@@ -9,10 +9,30 @@ Syllabus.md
 	- base r vs tidyverse
 - CRAN and R package usage
 - introverse
+- R, R-commander, Rcmd and R Studio, 
+- R scripts vs console
+- R running from command line
+- working directory
+- R source vs source with echo
+- R Studio Projects
+- R Environment
+- RStudio Debugging 
 - R data structures
+	- vectors
+	- list
+	- data frames
+	- missing values (NA)
+- R data frames vs tibbles
+	- head, tail, names
+	- nrow, ncol
+	- summary
+- R indexing vectors and data frames
+	- boolean indexing
 - Export data from R
 - Visualizations
-	- examples in base R and ggplot
+	- examples in 
+		-base R 
+		- ggplot (tidyverse)
 	- grammar of graphics
 	- graph examples
 		- line graph
@@ -23,4 +43,22 @@ Syllabus.md
 			- scatter plots
 			- line plots
 		- Maps
+		- boxplots
+	- saving figures as pdf/png files
+- iteration (for loops)
+	- vectorization vs loop
+- R Functions
+	- writing your own functions
+	- function arguments
+	- default values
+	- global variables vs function variables
+	- vectorization in functions
+- R Markdown (Reports with R)
+- Shiny (Web applications)
+-  Data processing and Aggregation with R
+	- base R
+	- dplyr (tidyverse)
+- dplyr part 2
+	- joins
+
 
