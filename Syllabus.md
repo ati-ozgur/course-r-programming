@@ -8,7 +8,6 @@
 	- from csv files
 	- base r vs tidyverse
 - CRAN and R package usage
-- introverse
 - R, R-commander, Rcmd and R Studio
 - R console
 - R as calculator
@@ -22,6 +21,9 @@
 - getting help
 	- ?command
 	- help("command")
+	- introverse
+	- get_help("command") (introverse)
+	- show_topics() (introverse)
 
 - R scripts vs console
 - R running from command line
