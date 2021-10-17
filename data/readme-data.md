@@ -7,6 +7,8 @@ readme-data.md
 
 - [European energy](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-04/readme.md)
 
+- [French Train stats](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-02-26)
+
 - [IKEA Furniture](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-11-03/readme.md)
 
 - [coffee chains](https://github.com/rfordatascience/tidytuesday/blob/master/data/2018/2018-05-07/week6_coffee_chains.xlsx)
@@ -14,3 +16,16 @@ readme-data.md
 - [Board Games Database](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-03-12)
 
 - [Employed Status](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-02-23/readme.md)
+
+- [Netflix Shows](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-04-20/readme.md)
+
+- [Survivor TV Show data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-06-01/readme.md)
+
+- [BEA Infrastructure Investment](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-08-10/readme.md)
+
+- [The Big Mac index](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-12-22/readme.md)
+
+- [PhDs Awarded by Field](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-02-19)
+
+
+- [Economist's "Mistakes, we’ve drawn a few"](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-04-16)
