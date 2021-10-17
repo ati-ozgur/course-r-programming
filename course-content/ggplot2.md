@@ -19,3 +19,8 @@ To be able understand ggplot2, we need to understand following concepts in order
 
 
 - [introduction to ggplot2](../course-content/introduction-to-ggplot2.pdf)
+
+
+# Video
+
+[A good short intro to ggplot2](https://www.youtube.com/watch?v=HPJn1CMvtmI)
