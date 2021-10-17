@@ -1,5 +1,12 @@
 readme-data.md
 
+# See data includes with datasets package
+
+	 data()
+
+# See data included with ggplot2
+
+	 data(package="ggplot2")
 
 - [bitcoin price data](bitcoin_2010-8-16_2021-10-17_USD) is download from [coin codex](https://coincodex.com/crypto/bitcoin/historical-data/) .
 
@@ -32,3 +39,9 @@ readme-data.md
 
 - [Economist's "Mistakes, we’ve drawn a few"](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-04-16)
 
+
+
+## collected datasets others
+
+- https://github.com/selva86/datasets
+- https://simplystatistics.org/2018/01/22/the-dslabs-package-provides-datasets-for-teaching-data-science/
