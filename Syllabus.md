@@ -103,9 +103,12 @@
 	- colorts
 	- saving figures as pdf/png files
 
-- R Markdown (Reports with R)
+- [R Markdown](course-content/RMarkdown.md) 
 
-- Shiny (Web applications)
+	Reports with R
+
+- Shiny 
+	creating Web applications with R
 
 -  Data processing and Aggregation with R
 	- base R
