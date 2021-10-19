@@ -111,12 +111,12 @@
 	- base R
 	- dplyr (tidyverse)
 
-- dplyr part 1
-	- filter
-	- arrange
-	- select
-	- mutate
-	- summarise
+- [dplyr part 1](course-content/dplyr.md)
+	- [filter](course-content/dplyr-filter.md)
+	- [arrange](course-content/dplyr-arrange.md)
+	- [select](course-content/dplyr-select.md)
+	- [mutate](course-content/dplyr-mutate.md)
+	- [summarise](course-content/dplyr-summarise.md)
 	- pipe operation
 
 - dplyr part 2
