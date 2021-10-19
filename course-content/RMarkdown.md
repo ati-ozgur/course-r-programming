@@ -10,7 +10,11 @@ But even without RStudio, RMarkdown documents can be executed, leading to very e
 
 
 ## Code Chunks
-Using delimiters ```{r} and ```, we can write any R code.
+Using delimiters 
+
+	```{r} and ```
+	
+, we can write any R code.
 Output of these code chunks, automatically inserted to our document outputs.
 This way, we can easily add graphs and table output to our reports.
 
@@ -70,13 +74,13 @@ RMarkdown documents could take parameters and use them to create different outpu
 
 Parameters are defined at the YAML section of the RMarkdown document like below
 
----
-title: Atilla's Document
-output: html_document
-params:
-  year: 2021
-  data_filename: file.csv
----
+		---
+		title: Atilla's Document
+		output: html_document
+		params:
+		  year: 2021
+		  data_filename: file.csv
+		---
 
 see more in [R Markdown The Definitive Guide Chapter 15 Parameterized reports](https://bookdown.org/yihui/rmarkdown/parameterized-reports.html)
 
