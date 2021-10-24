@@ -11,3 +11,19 @@ See [slides of tutorial](https://github.com/rstudio-education/shiny.rstudio.com-
 
 
 
+## Shiny examples
+
+- [Shiny showcases](https://shiny.rstudio.com/gallery/#user-showcase)
+- [Shiny demos](https://shiny.rstudio.com/gallery/#demos)
+
+## Deploy
+
+We can easily deploy our applications to cloud or on premises servers.
+In our course, we will only deploy to free Shinyapps.io.
+
+- [free cloud Shinyapps.io](http://www.shinyapps.io/)
+- On premises Shiny Server
+- Commercial RStudio Connect
+
+
+See R Studio [Shiny deploy page](https://shiny.rstudio.com/deploy/) for more information
