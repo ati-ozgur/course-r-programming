@@ -107,7 +107,7 @@
 
 	Reports with R
 
-- Shiny 
+- [Shiny](course-content/shiny.md) 
 	creating Web applications with R
 
 -  Data processing and Aggregation with R
