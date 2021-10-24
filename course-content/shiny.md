@@ -9,6 +9,7 @@ We will go over from Shiny tutorial of R Studio but we will only go over part 1 
 See [video of tutorial](https://shiny.rstudio.com/tutorial/)
 See [slides of tutorial](https://github.com/rstudio-education/shiny.rstudio.com-tutorial/blob/master/how-to-start-shiny-part-1.pdf)
 
+See [Written version of the tutorial](https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/)
 
 
 ## Shiny examples
