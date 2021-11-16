@@ -19,3 +19,13 @@ For example Turkey should show 53.21.
 
 6. Create a pie chart which shows percentage of the whole. This figure will show same information as part 5, but it shows it differently.
 
+7. Create a RMarkdown file.
+
+8. Put these two figures to this markdown file.
+
+
+7. Deploy your application to Rpubs
+
+8. email your application link to me.
+
+
