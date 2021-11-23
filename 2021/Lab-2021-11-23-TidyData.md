@@ -1,8 +1,14 @@
 # Lab 2021-11-23 Tidy Data
 
 
-1. goto https://www.kaggle.com/drubal/top-100-global-steel-producers-20112016 download the dataset.
+1. Do either one of the following
+
+a. goto https://www.kaggle.com/drubal/top-100-global-steel-producers-20112016 download the dataset.
 You may need to create a account in kaggle
+
+b. [Download from github](../../data/Top-100-Global-Steel-Producers-2011-2016.csv)
+
+
 
 2. import the dataset in a tibble
 
