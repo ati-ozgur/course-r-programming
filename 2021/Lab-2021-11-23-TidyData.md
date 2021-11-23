@@ -6,7 +6,7 @@
 a. goto https://www.kaggle.com/drubal/top-100-global-steel-producers-20112016 download the dataset.
 You may need to create a account in kaggle
 
-b. [Download from github](../../data/Top-100-Global-Steel-Producers-2011-2016.csv)
+b. [Download from github](../data/Top-100-Global-Steel-Producers-2011-2016.csv)
 
 
 
