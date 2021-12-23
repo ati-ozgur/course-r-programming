@@ -51,3 +51,8 @@ Use both normal output and knitr::kable output.
 11. end your document with running following code.
 
 	sessionInfo()
+
+
+12. Deploy your R Markdown document to Rpubs
+
+13. email your application link to me.
