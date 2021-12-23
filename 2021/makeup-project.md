@@ -16,7 +16,7 @@ At the end of every lab, there is a step saying "email your application link to 
 
 2. Create a zip file that contains source codes for all of the above labs. Share it to one drive. 
 
-3. Create a short video explaining showing your applications and share it link only on youtube.
+3. Create a short video (Max 20 minutes) explaining showing your applications and share it link only on youtube.
 
 
 4. Send me ONE email, that contains 
